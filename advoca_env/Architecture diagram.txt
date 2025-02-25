@@ -1,0 +1,23 @@
+           +----------------------+
+           |     User Input       |
+           | (Speech, Text, Image)|
+           +----------+-----------+
+                      |
+                      v
+           +----------------------+
+           |   Processing Layer   |
+           | - Speech-to-Text     |
+           | - NLP Legal Analysis |
+           | - OCR Document Parsing |
+           | - Context Memory     |
+           | - AI Argument Engine |
+           +----------+-----------+
+                      |
+                      v
+           +----------------------+
+           |     Output Layer     |
+           | - Text Response      |
+           | - Speech Response    |
+           | - Risk Scoring       |
+           | - AI Mock Trial      |
+           +----------------------+
